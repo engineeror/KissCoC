@@ -28,7 +28,7 @@
 
 *must take place elsewhere.*
 
-## 3. Absolutely everyone, without any exceptions whatsoever, is treated equally and respectfully
+## 3. Absolutely everyone, without any exceptions whatsoever, is treated equally and courteously
 *Even if you're:*
  - Violating this Code of Conduct
  - Jesus and just fixed all zero-days
